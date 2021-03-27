@@ -4,34 +4,34 @@
         "price": "$4.07",
         "description": "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
         "features": ["bacon smell", "Nice mustache", "No need for more excuse for the smelly mushache"],
-        "image": "img/mustache.jpg"
+        "image": "mustache.jpg"
     },
     {
         "productName": "A desktop refrigerator",
         "price": "$38.00",
         "description": "Now when you say you need a cold one, you can mean it literally, with one single refrigerated beverage at your fingertips.",
         "features": ["Fast cold drink", "Does not take much spaces"],
-        "image": "img/refrige.jpg"
+        "image": "refrige.jpg"
     },
     {
         "productName": "A suture practice kit",
         "price": "$45.95",
         "description": "Not quite a game, not quite medical school, this suture training kit will have you fixing up wounds and repairing hems with ease.",
         "features": ["Ready for apocalypse", "Fear no fight"],
-        "image": "img/suture.jpg"
+        "image": "suture.jpg"
     },
     {
         "productName": "A baby mop",
         "price": "$29.99",
         "description": "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
         "features": ["No need of the mopping machine anymore", "Make baby exercise more"],
-        "image": "img/baby-mop.jpg"
+        "image": "baby-mop.jpg"
     },
     {
         "productName": "A realistic dog pillow",
         "price": "$14.99",
         "description": "Just because your building doesn't allow pets doesn't mean you can't enjoy the company of a furry friend—albeit a not-so-animated one.",
         "features": ["No need to feed your dog", "No need to walk your dog", "Still able to get the nice cuddle"],
-        "image": "img/realistic-dog-pillow.jpg"
+        "image": "realistic-dog-pillow.jpg"
     }
 ]
