@@ -3,7 +3,7 @@ let currentCard = 0;
 let containerDiv = document.querySelector(".container-card");
 imgPathArray = ['mustache.jpg', 'refrige.jpg', 'suture.jpg', 'baby-mop.jpg', 'realistic-dog-pillow.jpg'];
 
-fetch("product.json")
+fetch("https://raw.githubusercontent.com/KaiWeiL/Weird_Deal/master/product.json")
 .then(resp => resp.json())
 .then(data => data.forEach(element => productInfo.push(element)))
 .then(() => {

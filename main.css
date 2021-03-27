@@ -54,6 +54,10 @@ h1 {
     font-weight: 900;
     color: #9d2823;
 }
+h2 {
+    text-align: center;
+    font-weight: 900;
+}
 [class*="card"] {
     background-color: #598e6a;
 }
