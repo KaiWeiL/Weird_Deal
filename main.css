@@ -55,9 +55,30 @@ h1 {
     color: #9d2823;
 }
 h2 {
+    color: #aa8787;
     text-align: center;
     font-weight: 900;
+    font-size: 2em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    border-radius: 10px;
+    background-color: rgb(31, 97, 59);
 }
 [class*="card"] {
     background-color: #598e6a;
+}
+[class*="card"] img {
+    margin-left: 0.6em;
+    margin-right: 0.6em;
+}
+.card-price {
+    color: red;
+    text-align: right;
+    font-style: italic;
+    font-size: 1.6em;
+    margin-bottom: 0px;
+}
+[class*="card"] .price-title {
+    display: inline;
+    margin-right: 1em;
 }

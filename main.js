@@ -62,10 +62,10 @@ function createCards(){
         paraFeatures.innerHTML = "<h3>Features</h3>" + '<ul>' + featureList + '</ul>';
     
         let paraPrice = document.createElement('p');
-        let paraPriceId = document.createAttribute('id');
+        let paraPriceId = document.createAttribute('class');
         paraPriceId.value = 'card-price';
         paraPrice.setAttributeNode(paraPriceId);
-        paraPrice.innerHTML = "<h3>Price</h3>" + productInfo[i]["price"];
+        paraPrice.innerHTML = "<h3 class=\"price-title\">Price</h3>" + productInfo[i]["price"];
     
         cardDiv.appendChild(h2);
         cardDiv.appendChild(img);
